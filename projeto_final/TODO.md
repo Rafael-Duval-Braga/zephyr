@@ -12,3 +12,4 @@
 - [ ] ideias
 	- [ ] mapeamento ufsm
 	- [ ] mapeamento ct
+ 	- [ ] controle de ar-condicionado por sensor de temperatura
