@@ -12,7 +12,7 @@
 	- (Rafael) de acordo com o professor é mais ou menos 100 metros
        
        
-- [ ] ideias
+ - [ ] ideias
 	- mapeamento ufsm
 	- mapeamento ct
  	- controle de ar-condicionado por sensor de temperatura
