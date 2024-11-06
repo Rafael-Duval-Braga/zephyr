@@ -11,4 +11,4 @@
 - [ ] ver alcance máximo sam r21
 - [ ] ideias
 	- [ ] mapeamento ufsm
-	- [ ] maeamento ct
+	- [ ] mapeamento ct
