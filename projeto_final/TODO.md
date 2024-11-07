@@ -1,8 +1,8 @@
 # Lista de coisas a fazer
 
-- [ ] criar maquina virtual
-- [ ] instalar renode
-- [ ] instalar west
+- [x] criar maquina virtual
+- [x] instalar renode
+- [x] instalar west
 - [ ] rodar hello_world zephyr
 - [ ] how to use zephyr
 - [ ] adicionar modulo openthreads
