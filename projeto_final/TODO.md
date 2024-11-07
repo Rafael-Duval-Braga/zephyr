@@ -25,3 +25,4 @@
        
 - [ ] guias e datasheets
 	- https://ead06.proj.ufsm.br/pluginfile.php/5033265/mod_resource/content/0/Atmel-42243-SAMR21-Xplained-Pro_User-Guide.pdf
+	- sensor bosch BNO055: https://www.bosch-sensortec.com/media/boschsensortec/downloads/application_notes_1/bst-bno055-an011.pdf
