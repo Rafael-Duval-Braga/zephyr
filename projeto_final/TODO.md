@@ -7,6 +7,7 @@
 - [ ] how to use zephyr
 - [ ] adicionar modulo openthreads
 - [ ] baixar openthreads simulator
+- [ ] estudar funcionamento do OpenThreads
 - [ ] decidir qual sensor utilizar
 - [ ] ver alcance máximo sam r21
 	- (Rafael) de acordo com o professor é mais ou menos 100 metros
