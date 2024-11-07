@@ -8,15 +8,16 @@
 - [ ] adicionar modulo openthreads
 - [ ] baixar openthreads simulator
 - [ ] estudar funcionamento do OpenThreads
-- [ ] decidir qual sensor utilizar
-- [ ] ver alcance máximo sam r21
-	- (Rafael) de acordo com o professor é mais ou menos 100 metros
+- [ ] estudar formato gpx file (código para mapeamento)
+- [x] decidir qual sensor utilizar/ vamos usar o sensor bosch BNO055
+- [x] ver alcance máximo sam r21
+	- (Rafael) de acordo com o professor é mais ou menos 100 metros/graças ao openthreads a distância não é problema
        
        
- - [ ] ideias
+ - [x] ideias
 	- mapeamento ufsm
 	- mapeamento ct
- 	- controle de ar-condicionado por sensor de temperatura
+ - controle de ar-condicionado por sensor de temperatura. vamos usar esse 
         
         
 - [ ] link de videos com informações possivelmente uteis
