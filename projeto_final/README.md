@@ -1,6 +1,8 @@
 # Projeto Final da disciplina UFSM00292
 
-## Ideias para projetos:
+## 7/11/24
+
+### Ideias para projetos:
 
 - Usar a extenção de magnetometro/acelerometro para ou:
   - Fazer um mapeamento da ufsm ou do ct.
