@@ -3,11 +3,13 @@
 - [x] criar maquina virtual
 - [x] instalar renode
 - [x] instalar west
-- [ ] rodar hello_world zephyr
-- [ ] how to use zephyr
-- [ ] adicionar modulo openthreads
+- [ ] instalar Zephyr SDK
+	- https://docs.zephyrproject.org/latest/develop/toolchains/zephyr_sdk.html
+	- [ ] rodar hello_world zephyr
+	- [ ] how to use zephyr
+	- [ ] adicionar modulo openthreads
 - [ ] baixar openthreads simulator
-- [ ] estudar funcionamento do OpenThreads
+	- [ ] estudar funcionamento do OpenThreads
 - [ ] estudar formato gpx file (código para mapeamento)
 - [x] decidir qual sensor utilizar/ vamos usar o sensor bosch BNO055
 - [x] ver alcance máximo sam r21
