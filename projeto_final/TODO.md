@@ -2,15 +2,17 @@
 
 - [x] criar maquina virtual
 - [x] instalar renode
+      - [ ] rodar hello_world zephyr
 - [x] instalar west
 - [ ] instalar Zephyr SDK
 	- https://docs.zephyrproject.org/latest/develop/toolchains/zephyr_sdk.html
-	- [ ] rodar hello_world zephyr
 	- [ ] how to use zephyr
 	- [ ] adicionar modulo openthreads
 - [ ] baixar openthreads simulator
 	- [ ] estudar funcionamento do OpenThreads
 - [ ] estudar formato gpx file (código para mapeamento)
+- [ ] SAM R21
+      - [ ] rodar hello_world no hardware
 - [x] decidir qual sensor utilizar/ vamos usar o sensor bosch BNO055
 - [x] ver alcance máximo sam r21
 	- (Rafael) de acordo com o professor é mais ou menos 100 metros/graças ao openthreads a distância não é problema
