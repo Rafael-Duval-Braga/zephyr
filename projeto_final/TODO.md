@@ -5,6 +5,7 @@
 	- [ ] rodar hello_world zephyr
 - [x] instalar west
 - [ ] instalar Zephyr SDK
+      	- zephyr para sam r21 https://docs.zephyrproject.org/latest/boards/atmel/sam0/samr21_xpro/doc/index.html 
 	- https://docs.zephyrproject.org/latest/develop/toolchains/zephyr_sdk.html
 	- [ ] how to use zephyr
 	- [ ] adicionar modulo openthreads
