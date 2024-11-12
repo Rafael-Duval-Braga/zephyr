@@ -13,7 +13,8 @@
 	- [ ] estudar funcionamento do OpenThreads
 - [ ] estudar formato gpx file (código para mapeamento)
 - [ ] SAM R21
-	- [ ] rodar hello_world no hardware
+	- [x] rodar hello_world no hardware
+ 	- [ ] ativar I2C ICC
 - [x] decidir qual sensor utilizar/ vamos usar o sensor bosch BNO055
 - [x] ver alcance máximo sam r21
 	- (Rafael) de acordo com o professor é mais ou menos 100 metros/graças ao openthreads a distância não é problema
