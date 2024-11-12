@@ -2,7 +2,7 @@
 
 - [x] criar maquina virtual
 - [x] instalar renode
-	- [ ] rodar hello_world zephyr
+	- [x] rodar hello_world zephyr
 - [x] instalar west
 - [ ] instalar Zephyr SDK
  	- zephyr para sam r21 https://docs.zephyrproject.org/latest/boards/atmel/sam0/samr21_xpro/doc/index.html 
