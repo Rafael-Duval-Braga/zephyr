@@ -27,7 +27,7 @@
         
 - [ ] link de videos com informações possivelmente uteis
 	- https://www.youtube.com/watch?v=r-WApTQFIi4
-       
+	- getting started on zephyr: https://youtu.be/lzWgj5LosRc?si=HIzQjsiBDVwI8WT0        
        
 - [ ] guias e datasheets
 	- https://ead06.proj.ufsm.br/pluginfile.php/5033265/mod_resource/content/0/Atmel-42243-SAMR21-Xplained-Pro_User-Guide.pdf
