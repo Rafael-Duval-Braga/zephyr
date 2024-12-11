@@ -1,0 +1,12 @@
+/*
+ * Copyright (c) 2024 UFSM
+ *
+ * SPDX-License-Identifier: Apache-2.0
+ */
+
+&sercom1 {
+	sercom1@4f {
+		compatible = "atmel,sam0-i2c";
+		reg = <0x4f>;
+	};
+};
