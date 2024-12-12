@@ -12,8 +12,7 @@
 #define AT30TSE75X_REG_REA 0x00
 
 #define I2C_DEV_NAME sercom1
-
-#define SLEEP_TIME      K_MSEC(1000)
+#define       K_MSEC(1000)
 
 int main(void) {
     const struct device *i2c_dev = DEVICE_DT_GET(DT_NODELABEL(I2C_DEV_NAME));
